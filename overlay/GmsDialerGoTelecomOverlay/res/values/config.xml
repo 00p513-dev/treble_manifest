@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Class name for the default main Dialer activity [DO NOT TRANSLATE] -->
+    <string name="dialer_default_class" translatable="false">com.google.android.dialer.extensions.GoogleDialtactsActivity</string>
+
+    <!-- Class name for the default incall activity [DO NOT TRANSLATE] -->
+    <string name="incall_default_class" translatable="false">com.android.incallui.InCallServiceImpl</string>
+</resources>
